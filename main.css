@@ -2,11 +2,11 @@
   margin: 0 auto;
   padding: 2em 1em;
   text-align: center;
-  color: #BBBFBB;
+  color: #F2F2F2;
   background-color: #2D8B1A;
   width: 500px;
   -webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
-  transition: width 2s, height 2s, background-color 2s, transform 2s;
+  transition: width .5s, height 2s, background-color 2s, transform .5s;
 }
     
 }
