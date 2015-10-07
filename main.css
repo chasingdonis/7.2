@@ -2,6 +2,12 @@
   margin: 0 auto;
   padding: 2em 1em;
   text-align: center;
-  color: gray;
+  color: #BBBFBB;
+  background-color: #2D8B1A;
+  width: 500px;
+  -webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+    
 }
 
